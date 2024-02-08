@@ -18,7 +18,8 @@ The project involves the design of the entire system which includes a conveyor b
 5. Rendering all this into one main video to show how the entire project would look on an industrial level.
 
 ### 🗜️ Demo of the working
-
+#### Streamlit Working
+https://github.com/ashita03/Quality-Inspection/assets/66629830/5b36acc5-3624-4399-92de-1fef46d2dd2e
 
 ### 🔳 Training result 
 Attached below is the result of the dengue kit
