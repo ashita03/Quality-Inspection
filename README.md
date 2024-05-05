@@ -1,8 +1,8 @@
 ## 🔍 Quality-Inspection
-The project is developed to conduct quality inspection of Dengue Kits using custom object detection to ensure the design of the kit is correct.
+The project is developed to conduct a quality inspection of Dengue Kits using custom object detection to ensure the design of the kit is correct.
 
 ### 🚀 Objective
-The manufacturing industry has a lot of its man force allotted towards building and quality inspection. Ensuring the accurate design of the product is a crucial step before sending it over to the market to be made available to the customers. To be able to cut down the manual crunch required for the examination of the design, we designed a system to be able to automate the process. 
+The manufacturing industry has a lot of its manpower allotted towards building and quality inspection. Ensuring the accurate design of the product is a crucial step before sending it over to the market to be made available to the customers. To be able to cut down the manual crunch required for the examination of the design, we designed a system to be able to automate the process. 
 For this project, we have taken an example of a dengue kit.
 
 ### ⚙️ Process 
